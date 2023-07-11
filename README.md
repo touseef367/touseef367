@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Muhammad Touseef and I’m Computer engineer
 - 👀 I’m interested in Artificial Intellegence and Mobile Application development
-- 🌱 I’m currently learning Artificial aintellegence and Mobile Application Development
+- 🌱 I’m currently learning Artificial intellegence and Mobile Application Development
 - 📫 you can email me at touseefsatti985@gmail.com 
 
 <!---
