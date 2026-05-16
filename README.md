@@ -31,7 +31,7 @@ I am actively seeking **junior Data Science, Machine Learning, Computer Vision, 
 |---|---|---|---|
 | Building RAG Agents with LLMs | NVIDIA | 2024 | [![View](https://img.shields.io/badge/View%20Certificate-76B900?style=flat&logo=nvidia&logoColor=white)](https://learn.nvidia.com/certificates?id=nY3Dh_SlSw-GG9U0AYbQwg) |
 | Machine Learning Essentials for Business and Technical Decision Makers | AWS | Dec 2024 | [![View](https://img.shields.io/badge/View%20Certificate-FF9900?style=flat&logo=amazonaws&logoColor=white)](https://github.com/touseef367/touseef367/blob/main/certificates/AWS%20ML%20Certificate.jpg) |
-| Workshop on Fundamentals of Applied Artificial Intelligence | AITeC / NCP Islamabad | Oct 2023 | [![View](https://img.shields.io/badge/View%20Certificate-1a73e8?style=flat&logo=academia&logoColor=white)](https://github.com/touseef367/touseef367/blob/main/certificates/Altech%20work%20shop.jpg) |
+| Workshop on Fundamentals of Applied Artificial Intelligence | AITeC / NCP Islamabad | Oct 2023 | [![View](https://img.shields.io/badge/View%20Certificate-1a73e8?style=flat&logo=academia&logoColor=white)](https://github.com/touseef367/touseef367/blob/main/certificates/AItech%20work%20shop.jpg) |
 ---
 
 ## 🛠️ Technical Skills
