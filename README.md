@@ -94,7 +94,7 @@ Git & GitHub · Linux · Qt Framework · SQL Server · Jupyter Notebook
 | Role | Organisation | Period |
 |---|---|---|
 
-| Freelance Data Analyst |Self Employed | May 2024 – Dec 2024 |
+| Freelance Data Analyst | Self Employed | May 2024 – Dec 2024 |
 | Independent AI Researcher | Self-employed | Feb 2024 – May 2024 |
 | Computer Vision Intern | Vision Insighta | Jan 2023 – Apr 2023 |
 
