@@ -91,12 +91,31 @@ Git & GitHub · Linux · Qt Framework · SQL Server · Jupyter Notebook
 
 ## 💼 Work Experience
 
-| Role | Organisation | Period |
-|---|---|---|
+| Role | Organization | Period | Location |
+|------|-------------|--------|----------|
+| Freelance AI/ML Engineer | Self Employed | Nov 2024 – Jan 2025 | Remote |
+| Independent AI Researcher | Self-employed | May 2024 – Sep 2024 | Remote |
+| Computer Vision Intern | Vision Insighta | Jan 2023 – Apr 2023 | Islamabad, Pakistan · On-site |
 
-| Freelance Data Analyst | Self Employed | May 2024 – Dec 2024 |
-| Independent AI Researcher | Self-employed | Feb 2024 – May 2024 |
-| Computer Vision Intern | Vision Insighta | Jan 2023 – Apr 2023 |
+**Freelance AI/ML Engineer — Self Employed (Nov 2024 – Jan 2025)**
+
+Delivered end-to-end CT scan preprocessing pipeline for lung cancer detection on the NSCLC-Radiomics dataset. Applied DICOM processing, Hounsfield Unit conversion, Gaussian filtering, morphological transformations, CLAHE contrast enhancement, and 3D thorax extraction at 256×256×128 resolution. Data stored in compressed HDF5 format. Delivered to an international client with a 5-star rating on Upwork.
+
+**Skills:** Python · PyTorch · TensorFlow · DICOM · HDF5 · OpenCV · Medical Imaging
+
+**Independent AI Researcher — Self-employed (May 2024 – Sep 2024)**
+
+Conducted independent research in machine learning, computer vision, and AI applications. Developed a Transformer-based survival analysis model (TabTransformer + FT-Transformer) achieving a C-index of 0.70 on high-dimensional genomic datasets, surpassing baseline DNN models. Built a real-time Sign Language Recognition system using LSTM and deep learning for hearing-impaired individuals.
+
+**Skills:** Python · PyTorch · Scikit-learn · SQL · Survival Analysis · Deep Learning
+
+**Computer Vision Intern — Vision Insighta (Jan 2023 – Apr 2023)**
+
+Completed a 3-month internship in computer vision research and development. Applied image processing and deep learning techniques to visual recognition tasks. Built and evaluated deep neural network models for object detection and classification pipelines.
+
+**Skills:** Deep Neural Networks (DNN) · Image Processing · Python · OpenCV · Computer Vision
+
+---
 
 ---
 
